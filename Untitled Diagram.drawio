@@ -1,4 +1,4 @@
-<mxfile modified="2019-10-26T11:05:05.564Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="QVDHx03J4ofAO2yNxSmG" version="12.1.7" type="github" pages="1">
+<mxfile modified="2019-10-26T11:06:48.965Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="cPLeoXcZsAe_0NZHSSJx" version="12.1.7" type="github" pages="1">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="2777" dy="1590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -168,7 +168,7 @@
         </mxCell>
         <mxCell id="15" value="" style="shape=mxgraph.gcp2.google_cloud_platform;fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry width="23" height="20" relative="1" as="geometry">
-            <mxPoint x="20" y="10" as="offset"/>
+            <mxPoint x="410" y="110" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="3G7S71GiZPw67ylA6irI-1002" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
